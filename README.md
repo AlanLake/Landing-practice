@@ -1,1 +1,1 @@
-# Practice
+permalink: /index.html
