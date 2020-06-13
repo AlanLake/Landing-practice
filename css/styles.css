@@ -516,6 +516,7 @@ textarea {
       background-size: cover;
       padding-top: 263px;
       padding-bottom: 223px;
+      min-height: 100vh;
   }
   .intro__title{
     max-width: 619px; 
